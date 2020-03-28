@@ -1,4 +1,6 @@
-[{
+{
+        "pariwisata":[
+        {
         "id":"01",
         "title":"Bonbin Mangkang",
         "lat":"-6.985998",
@@ -19,3 +21,4 @@
         "phone": "",
         "deskripsi": "Banjir Kanal Barat merupakan sungai yang berada di sebelah barat Kota Semarang yang merupakan salah satu daya tarik Wisata di Kota Semarang, pemandangan yang indah pada malam hari dengan pantulan sinar cahaya menjadikan Sungai Banjir Kanal Barat menjadi berwarna dan cantik. Untuk memperkenalkan Banjir Kanal Barat, setiap tahun Pemerintah Kota Semarang mengadakan event dengan nama (Festival Banjir Kanal Barat) berbagai acara digelar disana diantaranya Festival Perahu Hias, Festival Mancing, Festival Kuliner, festival Lampion dan Pagelaran Musik."
     }]
+}
