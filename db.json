@@ -6,9 +6,7 @@
         "lat":"-6.985998",
         "lng":"110.345998",
         "provinsi" : "Jawa Barat",
-        "webpage": "",
         "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/BonbinMangkang (1).jpg",
-        "phone": "",
         "deskripsi": "Taman Margasatwa Wonosari Mangkang merupakan relokasi dari kebun binatang Tinjomoyo. Sebagian satwa yang sebelumnya berada di Tinjomoyo, telah dipindah di tempat ini. Tempat rekreasi ini berada di pintu masuk Kota Semarang, tepatnya di jalan Raya Semarang-Kendal Km 17, dibuka untuk umum, mulai jam 08.00 s/d 17.00 WIB, Transportasi mudah Karena berada di pinggir jalan."
     }, {
         "id": "02",
@@ -16,9 +14,39 @@
         "lat": "-6.991216",
         "lng": "110.402120",
         "provinsi" : "Jawa Barat",
-        "webpage": "",
         "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Banjir Kanal Barat.jpg",
-        "phone": "",
         "deskripsi": "Banjir Kanal Barat merupakan sungai yang berada di sebelah barat Kota Semarang yang merupakan salah satu daya tarik Wisata di Kota Semarang, pemandangan yang indah pada malam hari dengan pantulan sinar cahaya menjadikan Sungai Banjir Kanal Barat menjadi berwarna dan cantik. Untuk memperkenalkan Banjir Kanal Barat, setiap tahun Pemerintah Kota Semarang mengadakan event dengan nama (Festival Banjir Kanal Barat) berbagai acara digelar disana diantaranya Festival Perahu Hias, Festival Mancing, Festival Kuliner, festival Lampion dan Pagelaran Musik."
-    }]
+    }{
+        "id": "03",
+        "title": "Museum Jago dan Muri",
+        "lat": "-7.068719",
+        "lng": "110.410275",
+        "provinsi" : "Jawa Barat",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Museum Jago & Muri.jpg",
+        "deskripsi": "Museum ini didirikan oleh Perusahaan Jamu Jago sebagai Pusat Informasi dan promosi hasil jamu. Museum ini memiliki koleksi foto-foto, slide dan peralatan tradisional pembuatan jamu pada masa lalu"
+    }, {
+        "id": "04",
+        "title": "Museum Jamu Nyonya Meneer",
+        "lat": "-6.947015",
+        "lng": "110.460473",
+        "provinsi" : "Jawa Barat",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Museum Jamu Nyonya Meneer.png",
+        "deskripsi": "Museum Jamu Nyonya Meneer di Semarang merupakan museum jamu pertama di Indonesia. Di Museum ini terdapat aneka macam jamu dan juga sejarah dari pembuatan jamu Nyonya Meneer. Jamu merupakan salah satu warisan Indonesia."
+    }, {
+        "id": "05",
+        "title": "Museum Ronggowarsito",
+        "lat": "-6.985954",
+        "lng": "110.383860",
+        "provinsi" : "Jawa Barat",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Museum Ronggowarsito.jpg",
+        "deskripsi": "Jalan Abdul Rahman Saleh No.1, Kalibanteng Kulon, Semarang Barat, Kalibanteng Kidul, Semarang Bar., Kota Semarang, Jawa Tengah 50149. Museum Negeri Propinsi Jawa Tengah (Ronggowarsito) berada di jalan Abdul Rahman Saleh No.1 Semarang, diresmikan pada tanggal 5 Juli 1985 memiliki lebih dari 50.000 koleksi yang mempunyai nilai arkeologis, historis dan budaya."
+    }, {
+        "id": "06",
+        "title": "Taman Budaya Raden Saleh",
+        "lat": "-7.002953",
+        "lng": "110.424354",
+        "provinsi" : "Jawa Barat",
+        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Taman Budaya Raden Saleh.jpg",
+        "deskripsi": "Jl. Sriwijaya No.29, Tegalsari, Candisari, Kota Semarang, Jawa Tengah 50614. Tempat yang semula merupakan taman hiburan rakyat sebagai kebun binatang yang dimiliki Kota Semarang. Dalam perkembangannya setelah kebun binatang dipindah ke Tinjomoyo, tempat rekreasi tersebut beralih fungsi menjadi pusat kesenian dan kebudayaan. Terletak di jalan Sriwijaya No. 29 kurang lebih 3 Km dari Tugu Muda, terbuka untuk umum setiap hari."
+    } ]
 }
