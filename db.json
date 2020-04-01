@@ -40,45 +40,5 @@
         "provinsi" : "Jawa Barat",
         "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Museum Ronggowarsito.jpg",
         "deskripsi": "Jalan Abdul Rahman Saleh No.1, Kalibanteng Kulon, Semarang Barat, Kalibanteng Kidul, Semarang Bar., Kota Semarang, Jawa Tengah 50149. Museum Negeri Propinsi Jawa Tengah (Ronggowarsito) berada di jalan Abdul Rahman Saleh No.1 Semarang, diresmikan pada tanggal 5 Juli 1985 memiliki lebih dari 50.000 koleksi yang mempunyai nilai arkeologis, historis dan budaya."
-    }, {
-        "id": "06",
-        "title": "Taman Budaya Raden Saleh",
-        "lat": "-7.002953",
-        "lng": "110.424354",
-        "provinsi" : "Jawa Barat",
-        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Taman Budaya Raden Saleh.jpg",
-        "deskripsi": "Jl. Sriwijaya No.29, Tegalsari, Candisari, Kota Semarang, Jawa Tengah 50614. Tempat yang semula merupakan taman hiburan rakyat sebagai kebun binatang yang dimiliki Kota Semarang. Dalam perkembangannya setelah kebun binatang dipindah ke Tinjomoyo, tempat rekreasi tersebut beralih fungsi menjadi pusat kesenian dan kebudayaan. Terletak di jalan Sriwijaya No. 29 kurang lebih 3 Km dari Tugu Muda, terbuka untuk umum setiap hari."
-    }, {
-        "id": "07",
-        "title": "Water Blaster",
-        "lat": "-7.022873",
-        "lng": "110.438687",
-        "provinsi" : "Jawa Barat",
-        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Water Blaster.jpg",
-        "deskripsi": "Jl. Bukit Candi Golf No.1, Jangli, Tembalang, Kota Semarang, Jawa Tengah 50255. Wahana Wisata air yang menarik di Kota Semarang ini memiliki banyak wahana permainan air, dari anak-anak sampai dewasa seperti: Baby Kidplay, Ember Tumpah, Slide untuk anak. Pleasurepool, Speed Toorpedos, Slide Race, Yelow slide, Blue Slide, Dino Blast, Flying fox, Cave River, The Great Wall."
-    }, {
-        "id": "08",
-        "title": "Kampoeng Wisata Taman Lele",
-        "lat": "-6.985903",
-        "lng": "110.345634",
-        "provinsi" : "Jawa Barat",
-        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Kampoeng Wisata Taman Lele.jpg",
-        "deskripsi": "Jalan Siliwangi, Tambakaji, Semarang, Kota Semarang, Jawa Tengah 50185. Obyek Wisata ini dulu dikenal dengan Taman Lele. Di tempat ini terdapat danau buatan yang dikelilingi gazebo, sepeda air, kolam renang untuk anak, permainan anak dan beberapa satwa peliharaan, seperti Ular Phyton, buaya dan berbagai jenis burung."
-    }, {
-        "id": "09",
-        "title": "Puri Maerokoco",
-        "lat": "-6.960840",
-        "lng": "110.385291",
-        "provinsi" : "Jawa Barat",
-        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/puri.jpg",
-        "deskripsi": "Jl. Puri Anjasmoro, Tawangsari, Semarang Bar., Kota Semarang, Jawa Tengah 50144. Sebuah objek Wisata yang berada di Jl. Yos Sudarso kurang lebih 5 Km dari Tugu Muda, satu komplek dengan PRPP. Sebagai taman mini Jawa Tengah yang merangkum semua rumah adat yang disebut dengan anjungan dari 35 kabupaten dan kota yang ada di Jawa Tengah. Di dalam rumah-rumah tersebut di gelar hasil-hasil industri dan kerajinan yang diproduksi oleh masing-masing daerah."
-    }, {
-        "id": "10",
-        "title": "Taman Rekreasi Wonderia",
-        "lat": "-7.001555",
-        "lng": "110.423966",
-        "provinsi" : "Jawa Barat",
-        "foto": "http://infowisata.ukm.semarangkota.go.id/wissemar/frontend/web/uploads/Taman Rekreasi Wonderia.jpg",
-        "deskripsi": "Jl. Sriwijaya No.29, Tegalsari, Candisari, Kota Semarang, Jawa Tengah 50242. Tempat rekreasi ini berada di jalan Sriwijaya. Di tempat tersebut terdapat beragam anjungan permainan anak-anak. Seperti bom-bom car, jet coaster, bianglala, rumah hantu, kereta mini, draimolen, dll"
     } ]
 }
