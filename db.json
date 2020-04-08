@@ -40,5 +40,29 @@
         "provinsi" : "Jawa Tengah",
         "foto": "https://i.imgur.com/d6x4tOf.jpg",
         "deskripsi": "Jalan Abdul Rahman Saleh No.1, Kalibanteng Kulon, Semarang Barat, Kalibanteng Kidul, Semarang Bar., Kota Semarang, Jawa Tengah 50149. Museum Negeri Propinsi Jawa Tengah (Ronggowarsito) berada di jalan Abdul Rahman Saleh No.1 Semarang, diresmikan pada tanggal 5 Juli 1985 memiliki lebih dari 50.000 koleksi yang mempunyai nilai arkeologis, historis dan budaya."
-    } ]
+    } , {
+        "id": "06",
+        "title": "Danau Toba",
+        "lat": "2.6114159",
+        "lng": "98.5557627",
+        "provinsi" : "Sumatera Utara",
+        "foto": "https://i.imgur.com/jUzJIJt.jpg",
+        "deskripsi": "Toppers pernah berkunjung ke Danau Toba? Danau dengan keindahan yang tidak tertandingi ini merupakan danau vulkanik terbesar di Asia Tenggara dan terbesar kedua di dunia setelah Danau Victoria. Danau Toba sudah lama terkenal sebagai salah satu objek wisata Indonesia favorit yang sering dikunjungi sejak tahun 1980-an lho!"
+    }, {
+        "id": "07",
+        "title": "Nusa Penida",
+        "lat": "-8.7413291",
+        "lng": "115.4586917",
+        "provinsi" : "Bali",
+        "foto": "https://i.imgur.com/K5bm37u.jpg",
+        "deskripsi": "Pulau Bali, sudah tidak bisa dipungkiri lagi namanya memang merajalela ke seluruh dunia karena pemandangannya yang indah, budayanya yang masih kental terasa dan pantai nya yang eksotis. Saat Toppers berkunjung ke Bali jangan heran kalau banyak banget turis berlalu lalang di sana, bahkan beberapa ada yang menetap di Bali lho!"
+    }, {
+        "id": "08",
+        "title": "Taman Laut Bunaken",
+        "lat": "1.6392216",
+        "lng": "124.7272657",
+        "provinsi" : "Sulawesi Utara",
+        "foto": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2015/01/wisata-indonesia-3-Twisata.jpg",
+        "deskripsi": "Destinasi wisata populer di Indonesia lainnya yang juga ramai dikunjungi wisatawan asing adalah Taman Laut Bunaken yang tepatnya berada di Teluk Manado. Bunaken menjadi salah satu objek wisata di Indonesia yang mengundang decak kagum karena keindahan taman bawah lautnya yang sulit ditemukan di negara lain."
+    }]
 }
